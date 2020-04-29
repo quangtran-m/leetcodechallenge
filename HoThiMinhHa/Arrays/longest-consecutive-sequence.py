@@ -1,4 +1,5 @@
 #https://leetcode.com/problems/longest-consecutive-sequence/
+#Should use Union-Find Algo but I dont know about it yet !!! Need to study it!!!
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         set_nums= set(nums)
